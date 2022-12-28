@@ -259,7 +259,7 @@
                 </div>
             </div>
             <div class="flex justify-center mt-12 mb-12">
-                <router-link to="/">
+                <router-link to="/courses">
                     <button class="btn-primary text-white h-14 w-32"> Browse all </button>
                 </router-link>
             </div>

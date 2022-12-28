@@ -7,8 +7,10 @@ import SinglePage from './views/Single.vue';
 </script>
 
 <template>
-  <Header />
-  <router-view></router-view>
-  <Footer />
+  <div>
+    <Header />
+    <router-view></router-view>
+    <Footer />
+  </div>
 </template>
 
