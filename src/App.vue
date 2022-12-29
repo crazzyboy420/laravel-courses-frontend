@@ -1,9 +1,6 @@
 <script setup>
-import Header from './components/Header.vue';
-import Footer from  './components/Footer.vue';
-import HomePage from  './views/Home.vue';
-import Courses from  './views/Courses.vue';
-import SinglePage from './views/Single.vue';
+import Header from './components/HeaderSection.vue';
+import Footer from './components/FooterSection.vue';
 </script>
 
 <template>
