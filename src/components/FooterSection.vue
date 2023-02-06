@@ -96,7 +96,7 @@
           <p class="text-sm  text-center text-[#E5E5E580] leading-5 z-50 relative"> Developed by <a href="https://twitter.com/phpfour" target="_blank" class="hover:underline font-medium">Rasel Ahmed ⚡️</a></p>
           <span></span>
         </div>
-      </footer>
+    </footer>
 </template>
 
 <script>
